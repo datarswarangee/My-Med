@@ -264,5 +264,4 @@ MyMedAI should be used for educational exploration and research methodology deve
 **MyMedAI — Breast Cancer Molecular Subtype Classification**
 
 Developed as an educational and research project exploring machine learning, gene expression analysis, and responsible evaluation of medical AI systems.
-
-For questions, suggestions, or research collaboration, open an issue in the project repository.
+ For queries, Please open an issue in the project repository.
