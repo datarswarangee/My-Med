@@ -4,7 +4,7 @@ MyMedAI is a research-oriented machine learning project that investigates the cl
 
 **Project status:** Internal model evaluation completed; independent external validation is in progress.
 
-> **Research disclaimer:** MyMedAI is an educational and research prototype. It is not a clinically validated diagnostic system and must not be used to make medical decisions, recommend treatments, or replace professional medical assessment.
+> **My Med** is an educational and research prototype. It is not a clinically validated diagnostic system and must not be used to make medical decisions, recommend treatments, or replace professional medical assessment.
 
 ## Table of Contents
 
